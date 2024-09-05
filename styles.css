@@ -151,3 +151,9 @@ footer p {
     max-width: 600px;
 }
 
+body {
+    background-image: url('fundoSite.jpg');
+    background-size: cover; /* Para ajustar o tamanho da imagem ao tamanho da tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+}
