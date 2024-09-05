@@ -131,3 +131,23 @@ footer p {
     transform: scale(1.05);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
+
+.item-resultado {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.imagem-filme {
+    margin-right: 15px;
+    transition: transform 0.3s ease;
+}
+
+.imagem-filme:hover {
+    transform: scale(1.1);
+}
+
+.conteudo-texto {
+    max-width: 600px;
+}
+
