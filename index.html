@@ -11,9 +11,12 @@
         <div class="container">
             
             <h1>Filmes Clássicos</h1>
-            <div class="busca">
-                <input type="text" placeholder="Buscar filmes...">
-            </div>
+              <div class="busca">
+            <form action="/search" method="GET">
+                <input type="text" name="query" placeholder="Buscar filmes...">
+                <button type="submit">Buscar</button>
+            </form>
+        </div>
         </div>
     </header>
     <main>
