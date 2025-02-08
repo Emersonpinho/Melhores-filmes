@@ -1,6 +1,6 @@
 # Recomendador de Filmes 🎬🍿
 
-Bem-vindo ao **Recomendador de Filmes**! Este é um site que ajuda você a descobrir novos filmes com base em suas preferências.
+Bem-vindo ao **Recomendador de Filmes**!
 
 ## Funcionalidades 🚀
 
